@@ -19,3 +19,6 @@ dependencies:
 - name: bdd-test-react-quickstart-1531384684
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: bdd-test-import-1531384684
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.0
